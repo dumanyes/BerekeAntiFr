@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+pyarrow         
+s3fs  
+lightgbm
+catboost
+openpyxl
